@@ -1,2 +1,2 @@
-# Mobile-First-2024
+# Mobile-Fisrt-2024
 Exercicio de responsividade em HTML e CSS.
