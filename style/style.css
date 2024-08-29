@@ -3,6 +3,9 @@
 
 :root{
     --cor-de-fundo: #EBECEE;
+    --branco: #ffffff;
+    --laranja: #EB9B00;
+    --azul: #002F52;
 }
 
 body {
