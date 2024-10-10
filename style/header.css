@@ -18,6 +18,12 @@
 .caixa{
     display: flex;
     align-items: center;
+
+}
+
+.imagem_cafe{
+    width: 10%;
+    border-radius: 100%;
 }
 
 .caixa__imagem{
@@ -75,7 +81,7 @@
     }
     .caixa__titulo--negrito{
         font-weight: 700;
-        color: var(--azul);
+        color: var(--amarelo-queimado);
     }
     .opcoes{
         display: flex;
