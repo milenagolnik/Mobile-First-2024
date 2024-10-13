@@ -1,5 +1,5 @@
 .topicos{
-    background-color: var(--azul);
+    background-color: var(--amarelo-forte);
     text-align: center;
     padding: 1em 0;
 }
@@ -23,7 +23,7 @@
 .topicos__link{
     color: var(--branco);
     padding: 1em;
-    background-color: var(--laranja);
+    background-color: var(--marrom);
     text-decoration: none;
     font-size: 14px;
     font-weight: 700;

@@ -1,5 +1,5 @@
 .banner{
-    background-color: var(--azul);
+    background-color: var(--amarelo-forte);
     color: var(--branco);
     text-align: center;
     padding: 2.5em 2em;
@@ -32,6 +32,23 @@
     text-align: center;
     background: url("../img/Lupa.png") no-repeat;
     background-position: 1.5em;
+}
+
+.rodape{
+    text-align: center;
+    margin: 2em 5em;
+}
+
+.rodape__logo{
+    width: 10%;
+    border-radius: 100%;
+}
+
+.rodape__texto {
+    margin: 1em 0;
+    color: var(--preto);
+    font-size: 15px;
+    font-family: var(--fonte-principal);
 }
 
 @media screen and (min-width: 1024px) {
