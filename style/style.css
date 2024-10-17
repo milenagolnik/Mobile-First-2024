@@ -28,7 +28,7 @@
 }
 
 body {
-    background-color: var(--cor-fundo);
+    background-color: var(--cinza);
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
